@@ -1,4 +1,6 @@
-# CI6204 Software Project Management - Project Cost Management
+# Project Cost Management
+
+> Course *CI6204* Software Project Management
 
 ## 文件夹说明
 
