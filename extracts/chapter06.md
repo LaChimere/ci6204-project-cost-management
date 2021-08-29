@@ -1,8 +1,9 @@
 # The Case of the Federal Bureau of Investigation
 
-* [Case Summary](##Case Summary)
-* [Company Background](##Company Background)
-* [Project Background](##Project Background)
+* [The Case of the Federal Bureau of Investigation](#The-Case-of-the-Federal-Bureau-of-Investigation)
+  * [Case Summary](#Case-Summary)
+  * [Company Background](#Company-Background)
+  * [Project Background](#Project-Background)
 
 ## Case Summary
 
