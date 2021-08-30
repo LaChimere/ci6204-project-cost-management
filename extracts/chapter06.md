@@ -6,7 +6,7 @@
   * [Project Background](#Project-Background)
   * [Case Description](#Case-Description)
   * [Analysis](#Analysis)
-    * [Cost](#Cost)
+    * [Cost: Little fiscal prudence](#Cost:-Little-fiscal-prudence)
 
 ## Case Summary
 
