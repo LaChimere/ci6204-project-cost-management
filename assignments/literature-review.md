@@ -16,4 +16,14 @@
 
   **Next one is decision support systems (DSS), the main purpose of which is to assist estimators in making better judgments and decisions at different levels of the estimation process by making use of the stored knowledge of experts in the field.**
 
+  *Rule-Based Systems. These systems are based on process time and cost calculation of feasible processes from a set of available ones for the manufacture of a part based on design and/or manufacturing constraints. Such a system reflects these constraints in a respective rule class with the information encapsulated in it by an expert in the area. A rule-based algorithm is an example of one such approach that helps to establish design and manufacturing constraints.*
+
+  *Fuzzy-Logic Approach. This approach to cost estimation is particularly helpful in handling uncertainty.*
+
+  *Expert Systems. This approach is based on storing the knowledge in a database and manipulating it on demand to infer quicker, more consistent, and more accurate results based on an attempt to mimic the human expert thought process with the help of an automated logical reasoning approach, normally achieved by rule-based programing.*
+
+  *During the early phases of the design cycle, when limited data are available, qualitative cost estimation techniques are more appropriate and provide a helpful starting point for a detailed analysis at a later stage.*
+
+  *Qualitative techniques, therefore, are helpful either in furnishing rough cost estimates or serve as a decision-aid tool for designers or estimators especially during the early phases of design process.*
+
 * 
