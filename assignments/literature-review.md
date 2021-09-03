@@ -26,5 +26,13 @@
 
   *Qualitative techniques, therefore, are helpful either in furnishing rough cost estimates or serve as a decision-aid tool for designers or estimators especially during the early phases of design process.*
 
-* 
+* > Aram, S., Eastman, C., & Beetz, J. (2014). Qualitative and quantitative cost estimation: a methodology analysis. In *Computing in Civil and Building Engineering (2014)* (pp. 381-389).
+
+  *INTUITIVE AND ANALOGICAL METHODS: EARLY DESIGN STAGES*
+
+  *In response to limitations of traditional statistical techniques and to improve their performance in terms of accuracy and consistency, new techniques including the non-linear machine learning method of Artificial Neural Networks (ANNs), the problem-solving and learning method of Case-Based Reasoning (CBR), heuristic optimization algorithms like Genetic Algorithm (GA), and probability distribution optimization methods like Monte Carlo, and decision trees were introduced.*
+
+  *Two of the most frequently studied cost estimation methods for early design stages are ANN and CBR. The major advantages reported for ANN models are that they do not require the project cost to be defined as a specific function of cost-affecting variables. Also many studies in both construction and manufacturing have shown their higher accuracy compared to traditional regression models (Bode 2000; Kim et al. 2004; Cavalieri et al. 2004). Major advantages of CBR models are transparency of the process which turns it into a suitable decision support tool, the ability to handle missing attribute information from previous cases and the feasibility of long-term use due to ease of updating models through the addition of new cases (Arditi & Tokdemir 1999; Cavalieri et al. 2004)*
+
+  *The goal of these methods is to predict project costs with limited information provided in early stages of a project with an acceptable accuracy rate. These cost predictions are generally used by project owners for feasibility studies and budgeting purposes.*
 
