@@ -27,3 +27,4 @@
   *Qualitative techniques, therefore, are helpful either in furnishing rough cost estimates or serve as a decision-aid tool for designers or estimators especially during the early phases of design process.*
 
 * 
+
