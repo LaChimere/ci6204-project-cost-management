@@ -10,7 +10,7 @@
 
 ## PPT 思路
 
-1. Objective
+1. Objectives
 
    * To propose the reasons behind the cost underestimation by looking into the past project through a qualitative perspective in the preparation phase of cost estimation.
    * To demonstrate the reasons above based on the study and analysis of McDonald's Innovate case.
